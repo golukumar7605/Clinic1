@@ -1,0 +1,504 @@
+
+body{
+    background-color: white;
+}
+#head{
+background-color: rgb(241, 234, 190);
+position: fixed;
+height: 90px;
+width: 99.4%;
+padding-top: 10px;
+z-index: 1;
+}
+
+#g11{
+    position: absolute;
+    z-index: 1;
+    top: 100px;
+    height: 300px;
+    width: 500px;
+    left: 500px;
+    color: whitesmoke;
+}
+.g12{
+    top: 100px;
+    height: 300px;
+    width: 500px;
+    left: 0px;
+    color: whitesmoke;
+}
+.g13{
+    top: 200px;
+    height: 300px;
+    width: 500px;
+    left: 0px;
+    color: white;
+}
+span{
+    position: absolute;
+    font-size: 30px;
+    top: 45px;
+    color: blue;
+}
+.text{
+    position: absolute;
+    padding-left: 200px;
+    color: orange;
+}
+#list{
+    position: absolute;
+    word-spacing: 20px;
+    font-size: 22px;
+    font-weight: 800;
+    margin-left: 650px;
+    margin-top: -50px;
+}
+
+#img{
+    font-size: 10px;
+    word-wrap: break-word;
+}
+
+.text1{
+    background-color: antiquewhite;
+    float: left;
+    position: relative;
+    height: 800px;
+    width: 600px;
+}
+.pic{
+    position: relative;
+    left: 100px;
+}
+#click{
+    position: relative;
+    height: 50px;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    border-radius: 30%;
+    background-color: rgb(255, 115, 0);
+    margin-top: 50px;
+    margin-left: 50px;
+    color: beige;
+}
+#body3{
+    position: relative;
+    text-align: center;
+}
+.main{
+    position: relative;
+    height: 1000px;
+    width: 1400px;
+    background-color: antiquewhite;;
+}
+#div1{
+    position: relative;
+    height: 400px;
+    width: 298px;
+    margin-left: 100px;
+}
+.gk1{
+    position: relative;
+    height: 200px;
+    width: 298px;
+    background-color: rgb(228, 215, 215);
+    margin-top: -4px;
+    text-align: center;
+    font-size: 30px;  
+    font-weight: 100;
+    padding-top: 20px;
+}
+#click1{
+    position: absolute;
+    height: 50px;
+    border: solid 2px orange;
+    border-radius: 30%;
+    font-size: 20px;
+    top: 300px;
+    left: 80px;
+    color: orange;
+}
+#div2{
+    position: relative;
+    height: 400px;
+    width: 298px;
+    margin-left: 500px;
+    margin-top: -400px;
+}
+.gk2{
+    position: relative;
+    height: 200px;
+    width: 298px;
+    background-color:rgb(228, 215, 215);
+    margin-top: -4px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    padding-top: 20px;
+}
+#click2{
+    position: absolute;
+    height: 50px;
+    border: solid 2px orange;
+    border-radius: 30%;
+    font-size: 20px;
+    top: 300px;
+    left: 80px;
+    color: orange;
+}
+#div3{
+    position: relative;
+    height: 400px;
+    width: 298px;
+    margin-left: 950px;
+    margin-top: -400px;
+}
+.gk3{
+    position: relative;
+    height: 200px;
+    width: 298px;
+    background-color: rgb(228, 215, 215);
+    margin-top: -4px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    padding-top: 20px;
+}
+#click3{
+    position: absolute;
+    height: 50px;
+    border: solid 2px orange;
+    border-radius: 30%;
+    font-size: 20px;
+    top: 300px;
+    left: 90px;
+    color: orange;
+}
+
+#div4{
+    position: relative;
+    height: 400px;
+    width: 298px;
+    margin-left: -850px;
+    margin-top: 100px;
+}
+.gk4{
+    position: relative;
+    height: 200px;
+    width: 298px;
+    background-color: rgb(228, 215, 215);
+    margin-top: -4px;
+    text-align: center;
+    font-size: 30px;  
+    font-weight: 100;
+    padding-top: 20px;
+}
+#click4{
+    position: absolute;
+    height: 50px;
+    border: solid 2px orange;
+    border-radius: 30%;
+    font-size: 20px;
+    top: 300px;
+    left: 80px;
+    color: orange;
+}
+#div5{
+    position: relative;
+    height: 400px;
+    width: 298px;
+    margin-left: -450px;
+    margin-top: -400px;
+}
+.gk5{
+    position: relative;
+    height: 200px;
+    width: 298px;
+    background-color:rgb(228, 215, 215);
+    margin-top: -4px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    padding-top: 20px;
+}
+#click5{
+    position: absolute;
+    height: 50px;
+    border: solid 2px orange;
+    border-radius: 30%;
+    font-size: 20px;
+    top: 300px;
+    left: 80px;
+    color: orange;
+}
+#div6{
+    position: relative;
+    height: 400px;
+    width: 298px;
+    margin-left: 0px;
+    margin-top: -400px;
+}
+.gk6{
+    position: relative;
+    height: 200px;
+    width: 298px;
+    background-color: rgb(228, 215, 215);
+    margin-top: -4px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
+    padding-top: 20px;
+}
+#click6{
+    position: absolute;
+    height: 50px;
+    border: solid 2px orange;
+    border-radius: 30%;
+    font-size: 20px;
+    top: 300px;
+    left: 90px;
+    color: orange;
+}
+.gk7{
+    position: relative;
+    height: 50px;
+    border: solid 2px orange;
+    border-radius: 40%;
+    font-size: 20px;
+    top: 80px;
+    left: -400px;
+    color: orange;
+}
+#golu{
+    position: absolute;
+    height: 500px;
+    width: 1500px;
+    background-color: white;
+    margin-left: -1000px;
+    margin-top: 100px;
+}
+.gk8{
+    padding-left: 90px;
+    padding-top: 50px;
+}
+#golu1{
+    width: 900px;
+    margin-left: -1000px;
+    margin-top: 50px;
+    font-size: 70px;
+    color: whitesmoke;
+    font-weight: 700;
+}
+.gk10{
+    position: relative;
+    height: 70px;
+    width: 200px;
+    border: solid 2px orange;
+    font-weight: 700;
+    border-radius: 50%;
+    font-size: 20px;
+    top: -170px;
+    left: 600px;
+    color: white; 
+    background-color: orange;
+}
+#gk11{
+    position: relative;
+    left: 350px;
+    font-size: 50px;
+    top: 10px;
+    font-weight: 700;
+}
+#gk12{
+    position: relative;
+    left: -100px;
+    color: black; 
+    top: 80px;
+}
+#gk13{
+    position: relative;
+    left: 250px;
+    color: black; 
+    top: 100px;
+    font-size: 30px;
+}
+#gk14{
+    position: relative;
+    left: 350px;
+    color: black; 
+    top: 100px;
+    font-size: 30px;
+}
+#gk15{
+    position: relative;
+    top: 100px;
+    width: 80%;
+}
+#golu3{
+    position: relative;
+    height: 100px;
+    width: 1000px;
+    display: flex;
+    left:  -800px;
+    top: 790px;
+    background-color: white;
+}
+.golu5{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.golu6{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.golu7{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.golu8{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+.golu9{
+    position: relative;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+#golu10{
+    position: absolute;
+    height: 70px;
+    width: 250PX;
+    text-align: center;
+    border: solid  orange;
+    font-weight: 700;
+    border-radius: 30% 30% 30% 30%;
+    font-size: 25px;
+    top: 120px;
+    left: 450px;
+    color: white; 
+    background-color: orange;
+
+}
+#gk123{
+    position: relative;
+    height: 500px;
+    width: 800px;
+    background-color: whitesmoke;
+    top: 900px;
+    left: -700px;
+    z-index: 1;
+}
+.float{
+    position: relative;
+    height: 500px;
+    width: 400px;
+    float: left;
+}
+#contact{
+    font-size: 40px;
+    font-weight: 700;
+    left: 50px;
+    top: 20px;
+}
+#add{
+    top: 100px;
+    height: 100px;
+
+}
+textarea{
+    height: 20px;
+    width: 160px;
+}
+.float1{
+    position: relative;
+    height: 500px;
+    width: 400px;
+    float: left;
+    background-color: rgb(58, 58, 238);
+    
+}
+#gk111{
+    position: absolute;
+    height: 50px;
+    width: 100PX;
+    font-weight: 700;
+    border-radius: 30% 30% 30% 30%;
+    font-size: 25px;
+    color: white; 
+    background-color: rgb(35, 35, 121);
+    top: 200px;
+}
+.g1{
+    position: relative;
+    font-size: 30px;
+    color: white;
+    left: 10px;
+}
+.g2{
+   
+    font-size: 20px;
+    color: white;
+    left: 20px;
+    top: 120px;
+}
+.g3{
+   
+    font-size: 20px;
+    color: white;
+    left: 20px;
+    top: 140px;
+}
+.g4{
+   
+    font-size: 20px;
+    color: white;
+    left: 20px;
+    top: 160px;
+}
+hr{
+    position: relative;
+    top: 190px;
+    opacity: 1;
+}
+.g5{
+   
+    font-size: 18px;
+    color: white;
+    left: 20px;
+    top: 250px;
+}
+.g6{
+   
+    font-size: 18px;
+    color: white;
+    left: 20px;
+    top: 290px;
+}
+.g7{
+   
+    font-size: 18px;
+    color: white;
+    left: 20px;
+    top: 320px;
+}
+.g8{
+   
+    font-size: 18px;
+    color: white;
+    left: 20px;
+    top: 350px;
+}
+.g9{
+    position: relative;
+    top: 600px;
+    left: -900px;
+}
+#g10{
+    height: 800px;
+    width: 1400px;
+}
