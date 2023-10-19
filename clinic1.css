@@ -391,7 +391,7 @@ span{
     background-color: whitesmoke;
     top: 900px;
     left: -700px;
-    z-index: 1;
+ 
 }
 .float{
     position: relative;
@@ -495,7 +495,7 @@ hr{
 }
 .g9{
     position: relative;
-    top: 600px;
+    top: 800px;
     left: -900px;
 }
 #g10{
